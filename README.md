@@ -9,5 +9,6 @@ Provides fundamental plotting capabilities for creating basic visualizations suc
 4.Seaborn 
 Used for loading the built-in taxis dataset.
 Provides high-level interfaces for creating statistical plots such as Count Plots, Scatter Plots, Heatmaps, Pair Plots, and Violin Plots.
+
 5.Jupyter Notebook 
 The environment used to write code interactive cell-by-cell and immediately view the generated visualizations and data outputs.
